@@ -1,0 +1,12 @@
+Bu klasörün içerisine aşağıdaki isimlerde görsel (.png) dosyalarınızı ekleyin:
+
+1. oda_arkaplan.png (Oda arka plan resmi - isteğe bağlı)
+2. robot.png (Kare yeni robot süpürge resmi - 1x1 kare yer kaplar)
+3. station.png (Şarj istasyonu resmi - 1x1 kare yer kaplar)
+4. sofa.png (Bej dikey koltuk resmi - 1x3 kare yer kaplar)
+5. tv.png (TV ünitesi resmi - 1x3 kare yer kaplar)
+6. table.png (Sehpalı halı resmi - 2x2 kare yer kaplar)
+7. chair.png (İkili berjer koltuk resmi - 2x1 kare yer kaplar)
+8. dust.png (Toz kiri resmi)
+9. liquid.png (Sıvı kiri resmi)
+10. stain.png (Leke kiri resmi)
