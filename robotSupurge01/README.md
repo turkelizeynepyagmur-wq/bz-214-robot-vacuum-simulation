@@ -65,6 +65,7 @@ src/
 │   └── SimulationView.java        # JavaFX arayüz tasarımı, butonlar, animasyonlar ve çizimler
 └── resources/
     └── images/                    # Robot, istasyon, mobilyalar ve kir ikonları (.png)
+---
 
 ## 🎮 Simülasyon Kontrolleri ve Kullanımı
 
