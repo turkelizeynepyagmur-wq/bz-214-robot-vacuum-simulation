@@ -65,3 +65,28 @@ src/
 │   └── SimulationView.java        # JavaFX arayüz tasarımı, butonlar, animasyonlar ve çizimler
 └── resources/
     └── images/                    # Robot, istasyon, mobilyalar ve kir ikonları (.png)
+
+## 🎮 Simülasyon Kontrolleri ve Kullanımı
+
+Araç Seçimi: Sol paneldeki mobilyalardan (Koltuk, TV, Sehpa, Berjer), duvar çizme veya kirlerden (Toz, Sıvı, Leke) birini seçin. Grid üzerinde istediğiniz hücreye tıklayarak yerleştirin.
+
+Döndürme: Sol panelden ilgili mobilya türü seçiliyken ızgara üzerindeki mobilyaya doğrudan tıklayarak yönünü döndürebilirsiniz (0° ➔ 90° ➔ 180° ➔ 270°).
+
+Temizleme (Silgi): "Silgi" aracını seçip eklediğiniz engel veya kire tıklayarak kaldırın. Mobilyalar çoklu hücre kaplasa dahi tek tıklamayla tüm kapladığı hücreler temizlenir.
+
+Simülasyon Hızı: Slider aracılığıyla robotun hareket hızını anlık olarak 0.5x ile 5.0x arasında değiştirebilirsiniz.
+
+Algoritma Seçimi: Robot hareket ederken dahi sol taraftan temizlik algoritmasını (Rastgele, Spiral, Duvar Takip) değiştirebilirsiniz.
+
+Kontrol Butonları:
+
+Başlat: Simülasyonu başlatır.
+
+Duraklat: Simülasyonu duraklatır veya devam ettirir.
+
+Sıfırla: Izgaradaki tüm kirleri ve engelleri temizleyerek robotu başlangıç konumuna (şarj istasyonu) döndürür ve bataryayı %100 yapar.
+
+İstasyona Dön: Robota şarj istasyonuna gitme emri verir. Robot en kısa yolu yeşil kesikli çizgiyle göstererek istasyona hareket eder.
+
+## 🎓 Public Sharing and Acknowledgment
+This project was developed as part of the BZ 214 Visual Programming course. Special thanks to the course instructor and contributors.
