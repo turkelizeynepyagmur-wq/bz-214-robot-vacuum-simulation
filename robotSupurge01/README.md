@@ -68,7 +68,6 @@ src/
 ---
 
 ## 🎮 Simülasyon Kontrolleri ve Kullanımı
-
 Araç Seçimi: Sol paneldeki mobilyalardan (Koltuk, TV, Sehpa, Berjer), duvar çizme veya kirlerden (Toz, Sıvı, Leke) birini seçin. Grid üzerinde istediğiniz hücreye tıklayarak yerleştirin.
 
 Döndürme: Sol panelden ilgili mobilya türü seçiliyken ızgara üzerindeki mobilyaya doğrudan tıklayarak yönünü döndürebilirsiniz (0° ➔ 90° ➔ 180° ➔ 270°).
